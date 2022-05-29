@@ -131,3 +131,4 @@ dist
 
 #typescript compiled files
 *.js
+*.js.map
